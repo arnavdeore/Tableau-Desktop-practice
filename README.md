@@ -6,7 +6,7 @@
 ---
 
 ## 📑Features
-Tableau is a powerful data visualization tool that converts raw data into an understandable format. These features make Tableau a versatile and powerful tool for business intelligence and data analysis. Here are some of its key features:
+Tableau is a powerful data visualization tool that converts raw data into an understandable format. These features make Tableau a versatile and powerful business intelligence and data analysis tool. Here are some of its key features:
  1. Data Blending: Allows users to blend data from multiple sources without complex scripting.
  2. Real-time Data Analysis: Supports real-time data analytics, enabling immediate insights from live data sources.
  3. User-Friendly Interface: Intuitive drag-and-drop interface to create visualizations easily without programming knowledge.
